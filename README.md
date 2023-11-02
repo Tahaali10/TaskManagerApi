@@ -2,5 +2,5 @@
 
 to run the project
 
-npm install
-nodemon index.js
+1. npm install
+2. nodemon index.js
